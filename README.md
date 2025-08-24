@@ -1,5 +1,5 @@
 # my-best-STRA
-# Node
+ Node
 node_modules/
 dist/
 .env
