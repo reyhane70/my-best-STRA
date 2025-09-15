@@ -12,7 +12,7 @@ venv/
 .env
 
 # macOS
-.DS_Store
+.DS_Store best
 
 # Visual Studio Code
 .vscode/
