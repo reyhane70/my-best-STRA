@@ -2,7 +2,7 @@
 # Node
 node_modules/
 dist/
-.env
+.
 npm-debug.log
 
 # Python
