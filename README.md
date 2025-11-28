@@ -15,4 +15,4 @@ venv/
 .DS_Store best
 
 # Visual Studio Code
-.vscode/
+
